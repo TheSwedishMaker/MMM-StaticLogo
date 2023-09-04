@@ -16,3 +16,5 @@ include the following in your config.js
   position: "top_right", // This can be any region
 },
 ```
+
+replace the ```bash tsmlogo.png```with your own 
